@@ -1,0 +1,5 @@
+jan.kowalski,devops
+anna.nowak,hr
+tomasz.wisniewski,devops
+mariusz.zielinski,support
+alicja.krajewska,hr
